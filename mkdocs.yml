@@ -51,7 +51,7 @@ extra:
 extra_css:
   - styles/typography.css
   - styles/colors-dark.css
-
+  
 
 extra_javascript:
   - javascripts/open-toc-by-default.js

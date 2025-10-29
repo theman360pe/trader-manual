@@ -9,10 +9,7 @@ theme:
   name: material
   features:
     - navigation.instant
-    - navigation.sections
     - navigation.expand
-    - toc.integrate
-    - toc.follow       # auto-scrolls the left nav ToC to the active section
     - navigation.top   # back-to-top button
     - search.suggest
     - search.highlight

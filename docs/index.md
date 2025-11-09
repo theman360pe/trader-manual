@@ -8,7 +8,7 @@ description: "A clear, step‑by‑step technical analysis manual focused on pri
 <a id="taonly-trading-manual"></a>
 # TA‑Only Trading Manual
 
-> **Scope & Origin.** Converted from _TA‑Only Trading Manual v1.0 (Nov 5, 2025)_. The manual uses **only** technical analysis—price action, market structure, and volume‑based tools. _No fundamentals, no psychology, and no money management_ (those are out of scope). fileciteturn0file0
+> **Scope & Origin.** Converted from _TA‑Only Trading Manual v1.0 (Nov 5, 2025)_. The manual uses **only** technical analysis—price action, market structure, and volume‑based tools. _No fundamentals, no psychology, and no money management_ (those are out of scope).
 
 **Goal:** take a novice from a blank chart to a confident **Trade / No‑Trade** decision using a consistent, repeatable process.
 
@@ -92,7 +92,7 @@ description: "A clear, step‑by‑step technical analysis manual focused on pri
 <a id="glossary-smc-vs-classical-terms"></a>
 ## Glossary: SMC vs Classical Terms
 
-In modern trading communities (especially **SMC/ICT‑style** analysis), several popular terms correspond to long‑standing classical price‑action ideas. This section maps terms and clarifies how they’re used in the manual. fileciteturn0file0
+In modern trading communities (especially **SMC/ICT‑style** analysis), several popular terms correspond to long‑standing classical price‑action ideas. This section maps terms and clarifies how they’re used in the manual.
 
 <a id="camarilla-break--mean-reversion-cmr"></a>
 ### Break of Structure (**BOS**)
@@ -122,7 +122,7 @@ A **deep pullback** entry—commonly around the **61.8–79%** retracement zone 
 An **order block that fails**, then later flips to act as **support/resistance** from the opposite side.
 
 ### Premium / Discount (50% Range Concept)
-Divide a range with its **50%** level. Above = **premium** (expensive); below = **discount** (cheap). A practical way to gauge whether price is at a favorable location. fileciteturn0file0
+Divide a range with its **50%** level. Above = **premium** (expensive); below = **discount** (cheap). A practical way to gauge whether price is at a favorable location.
 
 > _Note:_ “SMC” denotes Smart Money Concepts—community jargon for concepts that also exist in traditional technical analysis.
 
@@ -133,7 +133,7 @@ Divide a range with its **50%** level. Above = **premium** (expensive); below = 
 <a id="quick-start-checklist"></a>
 ## Quick‑Start Checklist
 
-Run this list before every trade. It condenses the core process into high‑impact checkpoints. Aim for **3+ independent confluences**; if you can’t honestly check the boxes, **stand aside**. fileciteturn0file0
+Run this list before every trade. It condenses the core process into high‑impact checkpoints. Aim for **3+ independent confluences**; if you can’t honestly check the boxes, **stand aside**.
 
 - [ ] **Bias** — Determine the **higher‑timeframe (HTF)** bias (Daily/4H; 1H for intraday). Trade **with** the trend unless you’re at a **clear extreme** with a proper reversal signal.
 - [ ] **Level** — Mark the **obvious** HTF **support/resistance** zones (prior day/week highs/lows, major pivots, clear OBs). Trade **at levels**, not mid‑range.
@@ -152,7 +152,7 @@ Run this list before every trade. It condenses the core process into high‑impa
 <a id="tradenotrade-flowchart"></a>
 ## Trade/No‑Trade Flowchart
 
-Use the flow below **sequentially**. Any “No” routes you to **No Trade**—protecting you from low‑quality, impulsive entries. fileciteturn0file0
+Use the flow below **sequentially**. Any “No” routes you to **No Trade**—protecting you from low‑quality, impulsive entries.
 
 ```mermaid
 flowchart TD
@@ -187,7 +187,7 @@ flowchart TD
   Z --> U[Stand Aside & Review Later]
 ```
 
-**How to use it:** If **HTF bias** isn’t clear, stop—**no trade**. If bias is clear **and** price is at a **meaningful level** with supportive **volume/VWAP** context, choose a setup that **matches the environment** (trend continuation or range reversal). Wait for a **valid trigger**, place the **stop at invalidation**, execute, then **log**. fileciteturn0file0
+**How to use it:** If **HTF bias** isn’t clear, stop—**no trade**. If bias is clear **and** price is at a **meaningful level** with supportive **volume/VWAP** context, choose a setup that **matches the environment** (trend continuation or range reversal). Wait for a **valid trigger**, place the **stop at invalidation**, execute, then **log**.
 
 [Back to top ↑](#taonly-trading-manual)
 
@@ -196,7 +196,7 @@ flowchart TD
 <a id="core-trading-recipe"></a>
 ## Core Trading Recipe
 
-A step‑by‑step “from naked chart to close” process. Follow in order; **skip nothing**. fileciteturn0file0
+A step‑by‑step “from naked chart to close” process. Follow in order; **skip nothing**.
 
 ### 1) Start with a Clean Chart
 - Remove clutter; begin on a **blank** chart.  
@@ -239,7 +239,7 @@ A step‑by‑step “from naked chart to close” process. Follow in order; **s
 - Save **screenshots** with entries/stops/targets/outcomes; write **why** you took it and **what happened**.  
 - Over time, your journal reveals **edge concentration** (what works best for you) and common **pitfalls** to fix.
 
-> _Plan the trade. Trade the plan. Then study the result._ fileciteturn0file0
+> _Plan the trade. Trade the plan. Then study the result._ 
 
 [Back to top ↑](#taonly-trading-manual)
 
@@ -248,7 +248,7 @@ A step‑by‑step “from naked chart to close” process. Follow in order; **s
 <a id="setup-playbook-library"></a>
 ## Setup Playbook Library
 
-Use the **Core Trading Recipe** as the backbone; the setups below are **applications** with tailored criteria. (Detailed examples to be maintained alongside your journal.) fileciteturn0file0
+Use the **Core Trading Recipe** as the backbone; the setups below are **applications** with tailored criteria. (Detailed examples to be maintained alongside your journal.)
 
 - **Break & Retest (HTF Level)**
 - **VWAP Mean Reversion**
@@ -276,7 +276,7 @@ Use the **Core Trading Recipe** as the backbone; the setups below are **applicat
 <a id="beginner-to-expert-progression"></a>
 ## Beginner‑to‑Expert Progression
 
-Practice sequence to build competence: fileciteturn0file0
+Practice sequence to build competence:
 
 1. **Module 1 – Chart Marking Drills**  
 2. **Module 2 – Pattern Recognition Drills**  
@@ -293,7 +293,7 @@ Practice sequence to build competence: fileciteturn0file0
 
 - **Glossary of Terms**  
 - **TradingView Tips & Tools**  
-- **Source Files (Curated List)**  fileciteturn0file0
+- **Source Files (Curated List)**
 
 [Back to top ↑](#taonly-trading-manual)
 
@@ -303,7 +303,7 @@ Practice sequence to build competence: fileciteturn0file0
 <a id="sources"></a>
 ## Sources
 
-Curated references listed in the original manual: fileciteturn0file0
+Curated references listed in the original manual:
 
 - *The Price Action Trading Strategy Guide* — TradingwithRayner: https://www.tradingwithrayner.com/the-price-action-trading-strategy-guide/  
 - *Volume Profile Indicator Explained (A Beginner's Guide)* — City Traders Imperium: https://citytradersimperium.com/what-is-volume-profile-indicator/  
